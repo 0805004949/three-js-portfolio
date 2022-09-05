@@ -6,3 +6,10 @@ I followd the tutorial by [@fireship](https://github.com/fireship-io/threejs-scr
 - [Three.js Docs](https://threejs.org/)  
 - [WebGL Overview](https://youtu.be/f-9LEoYYvE4)  
 - [I want to build this kind of **website**](https://atelier.net/virtual-economy/)  
+
+# To RUN 
+
+```
+$ npm install
+$ npm run dev
+```
